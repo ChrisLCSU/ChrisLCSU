@@ -22,7 +22,7 @@ CPSC 120
 
 
 
-* Lab
+* Lab 9
   * Lab 9, part-1 enjoyed working on this because it was a project where we worked
     with a mathematical problem and tried to automate it by creating a code. I was 
     able to make a code that dealt with taking in multiple decimal numbers and 
